@@ -6,4 +6,5 @@ public class User {
     //shuai
     private int id;
     //wo
+    public int a;
 }
